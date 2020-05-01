@@ -41,7 +41,7 @@ header > p {
 
 .meme > img {
   width: 60%;
-  filter: grayscale(100%);
+
 }
 
 .meme > h2 {
