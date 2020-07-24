@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React from 'react'
 
 class MemeGenerator extends React.Component {
     constructor() {
